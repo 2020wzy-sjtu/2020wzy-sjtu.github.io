@@ -1,5 +1,5 @@
 ---
-layout: new
+layout: page
 ---
 
 ## 执行总结
