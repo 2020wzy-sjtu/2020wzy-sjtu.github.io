@@ -6,7 +6,7 @@ layout: page
 
 
 <img src="images/headportrait.jpg" class="floatpic" width="600" height="480">
-<img src="images/speech-under-flag.jpg" class="floatpic" width="800" height="480">
+<img src="images/speech-under-flag.jpg" class="floatpic" width="700" height="480">
 
 
 ### **伍宗誉**
