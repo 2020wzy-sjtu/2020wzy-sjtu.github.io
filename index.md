@@ -8,10 +8,16 @@ layout: page
 
 **伍宗誉**.
 
-太上开天执符御历含真体道金阙云宫九穹御历万道无为大道明殿昊天金阙至尊玉皇赦罪大天尊玄穹高上帝、
-[备用链接，勿点](http://www.yelab.sjtu.edu.cn). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
+太上开天执符御历含真体道金阙云宫九穹御历万道无为大道明殿昊天金阙至尊玉皇赦罪大天尊玄穹高上帝 是也
+[备用链接，勿点](http://www.yelab.sjtu.edu.cn). 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+诞辰：2002.11.07
+高寿：21
+性别：男
+种族：熊人族
+族语：Fuck the king
+座右铭：有你有我，一肚子气
+
 
 ## Academic Background
 
