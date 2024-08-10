@@ -23,12 +23,10 @@ layout: page
 **座右铭：** 有你有我，一肚子气
 
 
-## Academic Background
+## 学习经历
 
-- **Sep 2024 - Future:** Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **2024 -     :** 上海交通大学 博士 生物医学工程学院 生物纳米材料纵
+- **2020 - 2024:** 上海交通大学 本科 生物医学工程学院 生物医学工程专业
 
 ---
 
