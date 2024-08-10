@@ -1,5 +1,5 @@
 ---
-_layouts:page
+layout: page
 ---
 
 ## 执行总结
