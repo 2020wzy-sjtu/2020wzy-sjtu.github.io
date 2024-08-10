@@ -12,10 +12,15 @@ layout: page
 [备用链接，勿点](http://www.yelab.sjtu.edu.cn). 
 
 诞辰：2002.11.07
+
 高寿：21
+
 性别：男
+
 种族：熊人族
+
 族语：Fuck the king
+
 座右铭：有你有我，一肚子气
 
 
