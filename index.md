@@ -6,22 +6,22 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-**伍宗誉**.
+### **伍宗誉**
 
 太上开天执符御历含真体道金阙云宫九穹御历万道无为大道明殿昊天金阙至尊玉皇赦罪大天尊玄穹高上帝 是也
 [备用链接，勿点](http://www.yelab.sjtu.edu.cn). 
 
-诞辰：2002.11.07
+**诞辰：** 2002.11.07
 
-高寿：21
+**高寿：** 21
 
-性别：男
+**性别：** 男
 
-种族：熊人族
+**种族：** 熊人族
 
-族语：Fuck the king
+**族语：** Fuck the king
 
-座右铭：有你有我，一肚子气
+**座右铭：** 有你有我，一肚子气
 
 
 ## Academic Background
