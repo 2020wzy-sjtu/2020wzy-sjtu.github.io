@@ -4,7 +4,9 @@ layout: page
 
 ## 执行总结
 分割线
+
 <img src="images/headportrait.jpg" class="floatpic" width="600" height="480">
+
 分割线
 
 ### **伍宗誉**
