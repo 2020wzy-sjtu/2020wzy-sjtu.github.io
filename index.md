@@ -4,7 +4,7 @@ layout: page
 
 ## 执行总结
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="2020wzy-sjtu.github.io/images/首页头像.jpg" class="floatpic" width="360" height="480">
 
 ### **伍宗誉**
 
