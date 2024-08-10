@@ -4,7 +4,7 @@ layout: page
 
 ## 执行总结
 
-<img src="images/headportrait.jpg" class="floatpic" width="720" height="480">
+<img src="images/headportrait.jpg" class="floatpic" width="500" height="480">
 
 ### **伍宗誉**
 
