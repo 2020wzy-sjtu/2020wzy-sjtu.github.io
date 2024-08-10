@@ -8,7 +8,8 @@ layout: page
 
 **伍宗誉**.
 
-太上开天执符御历含真体道金阙云宫九穹御历万道无为大道明殿昊天金阙至尊玉皇赦罪大天尊玄穹高上帝and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
+太上开天执符御历含真体道金阙云宫九穹御历万道无为大道明殿昊天金阙至尊玉皇赦罪大天尊玄穹高上帝、
+[备用链接，勿点](http://www.yelab.sjtu.edu.cn). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
