@@ -4,7 +4,7 @@ layout: page
 
 ## 执行总结
 
-<img src="2020wzy-sjtu.github.io/images/headportrait.jpg" class="floatpic" width="360" height="480">
+<img src="images/headportrait.jpg" class="floatpic" width="360" height="480">
 
 ### **伍宗誉**
 
