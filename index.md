@@ -4,7 +4,9 @@ layout: page
 
 ## 执行总结
 
+
 <img src="images/headportrait.jpg" class="floatpic" width="600" height="480">
+
 
 ### **伍宗誉**
 
